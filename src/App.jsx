@@ -7,8 +7,9 @@ import Header from "./components/Header";
 import Skill from "./components/Skill";
 import Contact from "./components/contact";
 import Experience from "./components/Experience";
-import Projects from "./components/projects";
+import Projects from "./components/Projects";
 import Language from "./components/Language";
+
 function App() {
   return (
     <div className="App">

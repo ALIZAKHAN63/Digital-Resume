@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Language = () => {
+ const Language = () => {
   return (
     <div className="language-section">
         <h1>Language</h1>
